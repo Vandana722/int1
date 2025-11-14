@@ -11,7 +11,7 @@ public class SampleIntApplication {
         System.out.println("Hi from Inteelij");
         System.out.println("Hii from new b ec");
         System.out.println("hellooooooooooo masterrr");
-        System.out.println("Merged to masterrrrrrrrrrrr 123456789");
+        System.out.println("Merged to masterrrrrrrrrrrr 123456789 from intelli");
 	}
 
 }
