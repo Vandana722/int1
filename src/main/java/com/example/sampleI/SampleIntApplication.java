@@ -10,7 +10,7 @@ public class SampleIntApplication {
 		SpringApplication.run(SampleIntApplication.class, args);
         System.out.println("Hi from Inteelij");
         System.out.println("Hii from new b ec");
-        System.out.println("hellooooooooooo");
+        System.out.println("hellooooooooooo masterrr");
 	}
 
 }
