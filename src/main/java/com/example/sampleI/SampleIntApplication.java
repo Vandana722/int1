@@ -9,7 +9,7 @@ public class SampleIntApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SampleIntApplication.class, args);
         System.out.println("Hi from Inteelij");
-
+        System.out.println("Hii from new b eclipse");
 	}
 
 }
